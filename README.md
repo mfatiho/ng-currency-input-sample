@@ -1,8 +1,7 @@
 # NgCurrencyInputSample
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.0.
-The project can be accessed from the link below
-`https://mehfatih.github.io/ng-currency-input-sample/`
+The project can be accessed from [sample link](https://mehfatih.github.io/ng-currency-input-sample/)
 
 
 ## Development server
