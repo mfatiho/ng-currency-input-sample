@@ -1,0 +1,7 @@
+<div id="app-currency">
+  <input id="app-currency-integer" #currencyInteger type="text" [(ngModel)]="integerValue" currencyFormatter placeholder="0" (keydown.ArrowRight)="integerArrowRight($event)" maxlength="11">
+  <b style="margin:0;padding: 0;">,</b>
+  <input id="app-currency-decimal" #currencyDecimal type="text" [(ngModel)]="decimalValue" placeholder="00" maxlength="8"
+    (keydown.ArrowLeft)="decimalArrowLeft($event)" 
+    (keydown.backspace)="decimalBackSpace($event)" >
+</div>
