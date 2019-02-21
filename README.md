@@ -1,7 +1,8 @@
 # NgCurrencyInputSample
 
 The project can be accessed from [sample link](https://mehfatih.github.io/ng-currency-input-sample/)
-The project give an new opinion about creating new currency input component (<currency-input></currency-input>).
+The project give an new opinion about creating new currency input component.
+Component name is <currency-input></currency-input> in this project.
 
 ## Development server
 
